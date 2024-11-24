@@ -5,7 +5,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # Api Section
-openai.api_key = "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"
+openai.api_key = "ssk-proj-Fb_Jy9rmgcEEElkdqLxUcuuq6S0AN8TqbNF2NTAQD-sypP2I9AuWGUcl7ORWc1AG3PcCC8UlfHT3BlbkFJCEEarJ98la99FlFPCVSOeRv6Afbf9WFxCOOuZhhIzICpDfMtGvZU4TvR0EW0-xNeF0OAXVUwUA"
 
 # Streamlit 
 st.set_page_config(page_title="CodeMind - Your Personal Chatbot", layout="wide")
